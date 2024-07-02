@@ -28,7 +28,7 @@ If you encounter any issues or have questions, please open an issue in this repo
 
 ## License
 
-This project is licensed under the Blippar Custom License - see the [LICENSE.md](https://webar-sdk.blippar.com/releases/2.0.1/LICENSE.md) file for details.
+This project is licensed under the Blippar Custom License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Copyright
 
