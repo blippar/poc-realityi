@@ -1,6 +1,6 @@
 # poc-realityi Repository
 
-Welcome to the Realityi repository. This space is dedicated to storing and collaborating on Proof of Concept (POC) projects developed for Realityi.
+Welcome to the poc-realityi repository. This space is dedicated to storing and collaborating on Proof of Concept (POC) projects developed for Realityi.
 
 ## Repository Structure
 
