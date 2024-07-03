@@ -1,12 +1,15 @@
 AFRAME.registerComponent('floorshadow', {
-  init: function() {
-    let el = this.el;
-    let self = this;
-    let mesh = el.getObject3D('mesh');
-    if (!mesh) { return; }
-    mesh.material = new THREE.ShadowMaterial();
-    mesh.material.opacity = 0.5;
-  }
+    schema: {
+        opacity: { default: 0.5 }
+    },  
+    init: function() {
+        let el = this.el;
+        let self = this;
+        let mesh = el.getObject3D('mesh');
+        if (!mesh) { return; }
+        mesh.material = new THREE.ShadowMaterial();
+        mesh.material.opacity = this.data.opacity;
+    }
 });
 AFRAME.registerComponent('nocull', {
   init() {
