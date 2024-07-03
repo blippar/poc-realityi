@@ -19,7 +19,7 @@ This project demonstrates ability that allows users to place and interact with 3
 
 ## Setup
 
-1. Ensure you have the WebAR SDK file (`webar-sdk-v2.0.1.min.js`) in the correct directory (`../webar-sdk/`).
+1. Ensure you have the WebAR SDK file (`webar-sdk-v2.0.2-rc1.min.js`) in the correct directory (`../webar-sdk/`).
 2. Place your 3D model files in the `../models/` directory as referenced in the HTML file.
 3. Replace the placeholder WebAR license key (`xxxxxxxx-1111-2222-3333-yyyyyyyyyyyy`) with your actual key.
 

@@ -28,7 +28,7 @@ The main feature of this project is the placement of a 3D Wolf model in AR:
 
 ## Setup
 
-1. Ensure you have the WebAR SDK file (`webar-sdk-v2.0.1.min.js`) in the correct directory (`../webar-sdk/`).
+1. Ensure you have the WebAR SDK file (`webar-sdk-v2.0.2-rc1.min.js`) in the correct directory (`../webar-sdk/`).
 2. Place the Wolf model file (dino-6.glb) in the `../models/` directory.
 3. Replace the placeholder WebAR license key (`xxxxxxxx-1111-2222-3333-yyyyyyyyyyyy`) with your actual Blippar license key.
 

@@ -28,7 +28,7 @@ The main feature of this project is the placement of a 3D chicken model in AR:
 
 ## Setup
 
-1. Ensure you have the WebAR SDK file (`webar-sdk-v2.0.1.min.js`) in the correct directory (`../webar-sdk/`).
+1. Ensure you have the WebAR SDK file (`webar-sdk-v2.0.2-rc1.min.js`) in the correct directory (`../webar-sdk/`).
 2. Place the chicken model file (PedroChicken.glb) in the `../models/Model 1/source/` directory.
 3. Replace the placeholder WebAR license key (`xxxxxxxx-1111-2222-3333-yyyyyyyyyyyy`) with your actual Blippar license key.
 
